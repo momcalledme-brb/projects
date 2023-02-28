@@ -1,0 +1,5 @@
+After clicking on play and selecting the difficulty, you'll see an incomplete sudoku board with grey black squares.
+
+When you click on a grey square, it'll turn yellow. you have to type a number in your key board to input a number.
+
+You can input a letter or the number 0 if you want to unselect your chosen grey square.
